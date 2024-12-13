@@ -102,7 +102,7 @@ admin:
   existingPVClaimProtected: "pvc-portable-objetos-aprendizaje-admin-protected"
   # Customize service docker image used (image, tag, pullPolicy, pullSecrets)
   image:
-    tag: "0.19.0"
+    tag: "0.20.0"
     repository: ghcr.io/objetos-aprendizaje/portal-administracion
     pullPolicy: Always
     pullSecrets: []
